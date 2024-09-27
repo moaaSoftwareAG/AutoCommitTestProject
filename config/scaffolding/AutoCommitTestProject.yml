@@ -8,7 +8,7 @@ packages:
   gitUsername: moaaSoftwareAG
   gitBranch: main
 services:
-- serviceName: project.autocommittest.integrations:edgeFlow_2
+- serviceName: project.autocommittest.integrations:edgeFlow_3
   packages:
   - name: AutoCommitTestProject
     version: "1.0"
