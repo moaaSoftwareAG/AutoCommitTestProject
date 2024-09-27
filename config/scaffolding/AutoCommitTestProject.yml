@@ -8,11 +8,7 @@ packages:
   gitUsername: moaaSoftwareAG
   gitBranch: main
 services:
-- serviceName: project.autocommittest.integrations:edgeFlow_4
+- serviceName: project.autocommittest.integrations:edgeFlow_5
   packages:
   - name: AutoCommitTestProject
     version: "1.0"
-- serviceName: pub.date:getCurrentDate
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.1999
